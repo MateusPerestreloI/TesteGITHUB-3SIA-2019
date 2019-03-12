@@ -1,8 +1,10 @@
-public class Aluno extends Pessoa {
+public class AlunoTripleX extends Pessoa 
+{
 
 	private Matricula matricula;
 
-	public void SolicitarMatricula() {
+	public void SolicitarMatricula() 
+	{
 
 	}
 
